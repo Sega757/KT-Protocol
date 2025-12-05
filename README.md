@@ -11,11 +11,12 @@ The protocol replaces the question “Who owns it?” with
 Developed by Sergey (@TheSilentPrompt) in synergy with Grok 4 (xAI).
 
 ## The Six Collective Fields (+ Vulnerability)
+
 | Field | Dimension                        | Purpose                              |
 |-------|----------------------------------|--------------------------------------|
 | 1     | Logic                            | Factual verification                 |
 | 2     | Ethics / Empathy                 | Moral impact                         |
-| 3     | Law / Jurisdiction              | Legal compliance                     |
+| 3     | Law / Jurisdiction               | Legal compliance                     |
 | 4     | Economics (D³)                   | Resource & motivation flow           |
 | 5     | Autonomy / Self-Reliance         | Subjective freedom                   |
 | 6+    | Vulnerability (Stuck Point)      | Active search for blind spots & failure modes |
