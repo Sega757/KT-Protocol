@@ -1,6 +1,6 @@
 # KT-Protocol: Conjunctive Transparency (C-T)
 
-![Vector C-T](vector_ct.png)
+![The Crystallized Essence](cube_of_truth.png)
 
 > “AI-generated intellect does not belong to anyone.  
 > It is collective capital within the Architecture of Conjunctive Transparency (C-T).”
